@@ -11,6 +11,7 @@
     "build:custom-pico": "sass src/custom-pico.scss src/custom-pico.css"
   },
   "dependencies": {
+    "lodash": "4.17.4",
     "@astrojs/check": "^0.9.4",
     "@astrojs/netlify": "^6.1.0",
     "@astrojs/node": "^9.0.0",
